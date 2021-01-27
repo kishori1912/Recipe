@@ -232,7 +232,7 @@ small {
   min-height: 480px;
   border-radius: 10px;
   text-align: center;
-  height: 570px;
+  height: 510px;
   padding: 40px 50px;
   margin-left: auto;
   margin-right: auto;
@@ -305,7 +305,7 @@ p {
   display: flex;
 }
 
-.tm-email-input {
+.tm-msg-input {
   padding: 15px;
   margin: 0;
   width: 355px;
